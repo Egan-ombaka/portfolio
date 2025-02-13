@@ -1,0 +1,28 @@
+.header{
+    position: sticky;
+    border: none;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    margin: 1em 40em;
+    padding: 1em;
+    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+}
+
+.social-icons i {
+    color: white;
+    margin: 4px;
+    font-size: 1.5em;
+    background-color: transparent;
+}
+
+.connect{
+    color: white;
+    font-size: 1.5em;
+    background-color: transparent;
+}

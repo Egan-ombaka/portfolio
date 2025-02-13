@@ -1,0 +1,25 @@
+
+* {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+.about-cont {
+    color: wheat;
+    margin: 1em 40em;
+}
+
+.about-text {
+    font-size: 1.2em;
+    font-weight: bolder;
+    line-height: 2em;
+}
+
+.description{
+    line-height: 1.5;
+    font-size: .9em;
+    margin: 1em 0;
+}
